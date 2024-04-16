@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "ceshi",
-      "repo": "https://android.googlesource.com/kernel/common",
-      "branch": "android12-5.10-2024-03",
+      "repo": "https://github.com/ChwnWang0/anzhuoneihe",
+      "branch": "main",
       "device": "markw",
       "defconfig": "gki_defconfig"
     },
